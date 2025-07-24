@@ -1,2 +1,4 @@
-# 4P-Matplotlib-Projects___r8
-Matplotlib | Projects | Data Visualization | Python3
+# Matplotlib Projects:
+
+### 1) Global Living Cost Visualization:
+  - Visualizing global living cost through matplotlib plots.
